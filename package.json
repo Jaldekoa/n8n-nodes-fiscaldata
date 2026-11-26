@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-fiscaldata",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "n8n community node to query the U.S. Treasury Fiscal Data API (fiscaldata.treasury.gov)",
 	"license": "MIT",
 	"homepage": "",
