@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-fiscaldata",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"description": "n8n community node to query the U.S. Treasury Fiscal Data API (fiscaldata.treasury.gov)",
 	"license": "MIT",
 	"homepage": "https://github.com/Jaldekoa/n8n-nodes-fiscaldata",
